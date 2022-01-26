@@ -1,16 +1,3 @@
-# dependency_injection_getx
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this project is sample dependency injection in flutter by Getx
+#mojtaba behzadi
+![Screenshot_20220126-121232](https://user-images.githubusercontent.com/11755727/151131303-495af514-0662-4126-a5a6-88e58c222234.jpg)
